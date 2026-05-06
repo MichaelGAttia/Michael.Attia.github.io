@@ -23,7 +23,7 @@ repository               : "MichaelAttia/MichaelAttia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   name             : "Michael Attia, PhD, PE"
   pronouns         : "he/him" 
   bio              : "Hydrogeologist at WSP USA · PhD in Water Resources (LSU) · Groundwater Modeling · Machine Learning · Geophysics"
